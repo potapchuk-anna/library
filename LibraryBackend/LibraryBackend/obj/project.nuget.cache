@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WmPhg+bJJbeuGJaAeCXfnI9uKClBFs/oFWkO9CNhq/ipf4m23s01jX45lGRt09PXn83vx9TJ0DWhsVRgI/b89Q==",
+  "dgSpecHash": "uonI78q8/HvnV1KXDj4O0KT7gW2Nr9VZp/ZZ6OB4AwxUZU+M41SVii9N7FqWaBF5UI3WqVN/YLHTbsjbCEosKw==",
   "success": true,
-  "projectFilePath": "D:\\Tasks\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
+  "projectFilePath": "D:\\Tasks\\library\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Аня\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Аня\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",

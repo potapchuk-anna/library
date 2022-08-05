@@ -9819,11 +9819,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tasks\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
+      "projectUniqueName": "D:\\Tasks\\library\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
       "projectName": "LibraryBackend",
-      "projectPath": "D:\\Tasks\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
+      "projectPath": "D:\\Tasks\\library\\LibraryBackend\\LibraryBackend\\LibraryBackend.csproj",
       "packagesPath": "C:\\Users\\Аня\\.nuget\\packages\\",
-      "outputPath": "D:\\Tasks\\LibraryBackend\\LibraryBackend\\obj\\",
+      "outputPath": "D:\\Tasks\\library\\LibraryBackend\\LibraryBackend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Аня\\AppData\\Roaming\\NuGet\\NuGet.Config",
